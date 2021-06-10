@@ -1,5 +1,5 @@
 # CRUD
-Desenvolvido por Victor Hugo Rosa Fonseca; Este é um projeto pequeno de onde coloquei as principais funcionalidades (CRUD) desenvolvido com a tecnologia Angular9
+Desenvolvido por Victor Hugo Rosa Fonseca; Este é um projeto pequeno onde coloquei as principais funcionalidades (CRUD) desenvolvido com a tecnologia Angular9
 
 # Backend
 O Backend dessa aplicação é um json. Para rodar, entre pelo terminal, navegue ate a pasta raiz - 'backend' execute o comando:
